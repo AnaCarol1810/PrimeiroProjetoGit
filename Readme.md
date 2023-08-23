@@ -1,0 +1,1 @@
+escrevendo qualaque coisa para meu primeiro projeto git.
